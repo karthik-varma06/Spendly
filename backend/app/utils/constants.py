@@ -1,0 +1,13 @@
+DEFAULT_CATEGORIES = [
+    "FOOD",
+    "TRAVEL",
+    "SHOPPING",
+    "ELECTRONICS",
+    "HEALTH",
+    "UTILITIES",
+    "ENTERTAINMENT",
+    "SUBSCRIPTIONS",
+    "EDUCATION",
+    "TRANSPORT",
+    "OTHER",
+]
