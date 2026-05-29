@@ -579,3 +579,28 @@ VALUES
 ('EDUCATION', 'book-open', '#00BBF9'),
 ('TRANSPORT', 'car', '#00F5D4'),
 ('OTHER', 'circle', '#ADB5BD');
+
+---
+
+## Project Screenshots
+
+### Landing Page
+
+![Landing Page](screenshots/landing-page.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Receipt Upload 
+
+![Upload Page](screenshots/upload-page.png)
+
+### Add Expense & Income Entry
+
+![Add Expense & Income Entry](screenshots/add-entry-page.png)
+
+### Budget Management
+
+![Budget Management](screenshots/budget-management-page.png)
+
