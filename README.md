@@ -580,8 +580,9 @@ VALUES
 ('TRANSPORT', 'car', '#00F5D4'),
 ('OTHER', 'circle', '#ADB5BD');
 
----
+```
 
+---
 ## Project Screenshots
 
 ### Landing Page
